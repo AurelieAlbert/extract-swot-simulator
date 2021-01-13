@@ -1,0 +1,140 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:39040'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:45434'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:33642'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:41658'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:35693'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:41388'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:34966'
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:36322
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:36322
+distributed.worker - INFO -          dashboard at:         10.120.41.39:38838
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-dfv8u0vc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:45415
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:45415
+distributed.worker - INFO -          dashboard at:         10.120.41.39:36460
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-105e_fah
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:44130
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:44130
+distributed.worker - INFO -          dashboard at:         10.120.41.39:37543
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-v0b1ebdg
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:36819
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:36819
+distributed.worker - INFO -          dashboard at:         10.120.41.39:41466
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-7r339ep_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/contextlib.py:120: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:36518
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:36518
+distributed.worker - INFO -          dashboard at:         10.120.41.39:44088
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-p69y70_4
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/contextlib.py:120: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:40096
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:40096
+distributed.worker - INFO -          dashboard at:         10.120.41.39:38609
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-0hh7a90u
+distributed.worker - INFO - -------------------------------------------------
+/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/contextlib.py:120: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:46408
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:46408
+distributed.worker - INFO -          dashboard at:         10.120.41.39:34935
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-hgioe517
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:41402
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.51s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.52s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.51s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.50s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.52s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.52s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 6.52s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:36819
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:46408
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:36322
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:36518
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:44130
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:40096
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:45415
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:41388'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:45434'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:35693'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:34966'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:41658'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:33642'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:39040'
+distributed.dask_worker - INFO - End worker

@@ -1,0 +1,134 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:37967'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:44618'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:34386'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:35886'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:34884'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:33893'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.39:42496'
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:33985
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:33985
+distributed.worker - INFO -          dashboard at:         10.120.41.39:35806
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-520894wt
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:43319
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:43319
+distributed.worker - INFO -          dashboard at:         10.120.41.39:33372
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-jk1uewpe
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:39474
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:39474
+distributed.worker - INFO -          dashboard at:         10.120.41.39:41802
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-ldp7c7xg
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:32975
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:32975
+distributed.worker - INFO -          dashboard at:         10.120.41.39:38307
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-hzo42fcx
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:40985
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:40985
+distributed.worker - INFO -          dashboard at:         10.120.41.39:42423
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-cfuhxq8k
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:35777
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:35777
+distributed.worker - INFO -          dashboard at:         10.120.41.39:39135
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-s12hm5ec
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.39:46346
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.39:46346
+distributed.worker - INFO -          dashboard at:         10.120.41.39:33758
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-r5ybm0e2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 45.27s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 45.28s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 45.28s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 45.30s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 45.31s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 45.35s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 45.44s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:35777
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:40985
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:46346
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:39474
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:32975
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:43319
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.39:33985
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:44618'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:35886'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:33893'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:37967'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:42496'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:34884'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.39:34386'
+distributed.dask_worker - INFO - End worker

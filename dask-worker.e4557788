@@ -1,0 +1,201 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.42:37533'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.42:42813'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.42:35303'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.42:42507'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.42:43977'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.42:41124'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://10.120.41.42:41041'
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.42:46086
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.42:46086
+distributed.worker - INFO -          dashboard at:         10.120.41.42:33080
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-lusbqfeq
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.42:44954
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.42:44954
+distributed.worker - INFO -          dashboard at:         10.120.41.42:41946
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-4dmxpok_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.42:42023
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.42:42023
+distributed.worker - INFO -          dashboard at:         10.120.41.42:39651
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-f0q1kk2k
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.42:39494
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.42:39494
+distributed.worker - INFO -          dashboard at:         10.120.41.42:37536
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-6gjkfo42
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.42:34863
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.42:34863
+distributed.worker - INFO -          dashboard at:         10.120.41.42:42792
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-pot_zh56
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/contextlib.py:120: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.42:41046
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.42:41046
+distributed.worker - INFO -          dashboard at:         10.120.41.42:43664
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-01dn0yno
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/contextlib.py:120: UserWarning: Creating scratch directories is taking a surprisingly long time. This is often due to running workers on a network file system. Consider specifying a local-directory to point workers to write scratch data to a local disk.
+  next(self.gen)
+distributed.worker - INFO -       Start worker at:   tcp://10.120.41.42:32946
+distributed.worker - INFO -          Listening to:   tcp://10.120.41.42:32946
+distributed.worker - INFO -          dashboard at:         10.120.41.42:36761
+distributed.worker - INFO - Waiting to connect to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          4
+distributed.worker - INFO -                Memory:                   26.29 GB
+distributed.worker - INFO -       Local Directory: /home/ad/alberta/dask-worker-space/dask-worker-space/worker-93y8a6yr
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://10.120.42.26:39809
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.02s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.04s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.04s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.05s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.09s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.10s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 51.16s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+tornado.application - ERROR - Exception in callback <function Worker.__init__.<locals>.<lambda> at 0x2ab18feb2d30>
+Traceback (most recent call last):
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/tornado/ioloop.py", line 905, in _run
+    return self.callback()
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/worker.py", line 648, in <lambda>
+    lambda: self.batched_stream.send({"op": "keep-alive"}), 60000
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/batched.py", line 146, in send
+    raise CommClosedError
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback <function Worker.__init__.<locals>.<lambda> at 0x2b95f5a1fd30>
+Traceback (most recent call last):
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/tornado/ioloop.py", line 905, in _run
+    return self.callback()
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/worker.py", line 648, in <lambda>
+    lambda: self.batched_stream.send({"op": "keep-alive"}), 60000
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/batched.py", line 146, in send
+    raise CommClosedError
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback <function Worker.__init__.<locals>.<lambda> at 0x2acce4724d30>
+Traceback (most recent call last):
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/tornado/ioloop.py", line 905, in _run
+    return self.callback()
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/worker.py", line 648, in <lambda>
+    lambda: self.batched_stream.send({"op": "keep-alive"}), 60000
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/batched.py", line 146, in send
+    raise CommClosedError
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback <function Worker.__init__.<locals>.<lambda> at 0x2ae7423b1d30>
+Traceback (most recent call last):
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/tornado/ioloop.py", line 905, in _run
+    return self.callback()
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/worker.py", line 648, in <lambda>
+    lambda: self.batched_stream.send({"op": "keep-alive"}), 60000
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/batched.py", line 146, in send
+    raise CommClosedError
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback <function Worker.__init__.<locals>.<lambda> at 0x2af2289cdd30>
+Traceback (most recent call last):
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/tornado/ioloop.py", line 905, in _run
+    return self.callback()
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/worker.py", line 648, in <lambda>
+    lambda: self.batched_stream.send({"op": "keep-alive"}), 60000
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/batched.py", line 146, in send
+    raise CommClosedError
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback <function Worker.__init__.<locals>.<lambda> at 0x2ab47d5da1f0>
+Traceback (most recent call last):
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/tornado/ioloop.py", line 905, in _run
+    return self.callback()
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/worker.py", line 648, in <lambda>
+    lambda: self.batched_stream.send({"op": "keep-alive"}), 60000
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/batched.py", line 146, in send
+    raise CommClosedError
+distributed.comm.core.CommClosedError
+tornado.application - ERROR - Exception in callback <function Worker.__init__.<locals>.<lambda> at 0x2b80d8b271f0>
+Traceback (most recent call last):
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/tornado/ioloop.py", line 905, in _run
+    return self.callback()
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/worker.py", line 648, in <lambda>
+    lambda: self.batched_stream.send({"op": "keep-alive"}), 60000
+  File "/softs/rh7/conda-envs/pangeo_202012/lib/python3.8/site-packages/distributed/batched.py", line 146, in send
+    raise CommClosedError
+distributed.comm.core.CommClosedError
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.42:46086
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.42:42023
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.42:44954
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.42:34863
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.42:32946
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.42:39494
+distributed.worker - INFO - Stopping worker at tcp://10.120.41.42:41046
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Worker closed
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.42:37533'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.42:42507'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.42:35303'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.42:42813'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.42:41124'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.42:43977'
+distributed.nanny - INFO - Closing Nanny at 'tcp://10.120.41.42:41041'
+distributed.dask_worker - INFO - End worker

@@ -1,0 +1,21 @@
+[PROLOGUE] Starting prologue on node node311 at date Wed Jan 13 09:08:52 UTC 2021
+[PROLOGUE] Ending prologue on node node311 at date Wed Jan 13 09:08:52 UTC 2021
+[EPILOGUE] Starting epilogue on node node311 at date Wed Jan 13 09:22:04 UTC 2021
+
+------------ JOB INFO 4557320.admin01 -------------
+
+JOBID		: 4557320.admin01
+USER		: alberta
+GROUP		: swot_aval_oc
+JOB NAME	: dask-worker
+SESSION		: 438558
+RES REQSTED	: ncpus=28,mem=172gb,walltime=00:30:00,place=free
+RES USED	: cpupercent=13,cput=00:02:17,ncpus=28,vmem=2662564kb,mem=2662564kb,walltime=00:13:12
+BILLING         : 06:09:36 (ncpus x walltime)
+QUEUE		: qt1h
+ACCOUNT		: PerfTestPangeo
+JOB EXIT CODE	: 0
+
+------------ END JOB INFO 4557320.admin01 ---------
+
+[EPILOGUE] Ending epilogue on node node311 at date Wed Jan 13 09:22:05 UTC 2021
