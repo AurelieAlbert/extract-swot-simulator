@@ -7,10 +7,14 @@ import os
 import sys
 
 
-def check_data_region(region,file,latmin,latmax,lonmin,lonmax):
+def check_data_region(data,region,file,latmin,latmax,lonmin,lonmax):
     ds=xr.open_dataset(file)
-    latfile=ds.latitude
-    lonfile=ds.longitude
+    if data == 'karin':
+        latfile=ds.latitude
+        lonfile=ds.longitude
+    if data == 'nadir':
+        latfile=ds.latitude_nadir
+        lonfile=ds.longitude_nadir
     if region == 'NANFL':
         ind_region_all=np.where((latfile < latmax) & (latfile > latmin) & 
         (lonfile < lonmax) & (lonfile > lonmin))
@@ -28,20 +32,29 @@ def check_data_region(region,file,latmin,latmax,lonmin,lonmax):
     return check,ind_region
     
 
-def check_data_nonan(file,ind_region):
+def check_data_nonan(data,file,ind_region):
     ds=xr.open_dataset(file)
-    latfile=ds.latitude
-    lonfile=ds.longitude
-    ssh=ds.ssh_karin    
+    if data == 'karin':
+        latfile=ds.latitude
+        lonfile=ds.longitude
+        ssh=ds.ssh_karin    
+    if data == 'nadir':
+        latfile=ds.latitude_nadir
+        lonfile=ds.longitude_nadir
+        ssh=ds.ssh_nadir    
     numlines_region_unique=np.unique(ind_region)
     check=0
     isdata_all=[]
     for k in np.arange(len(numlines_region_unique)):
-        isdata=np.where(np.isnan(ssh[numlines_region_unique[k],:])==False)
-        if len(isdata[0])>0:
-            check=1
-            isdata_all.append(numlines_region_unique[k])
-
+        if data == 'karin':     
+            isdata=np.where(np.isnan(ssh[numlines_region_unique[k],:])==False)
+            if len(isdata[0])>0:
+                check=1
+                isdata_all.append(numlines_region_unique[k])
+        if data == 'nadir':
+            if np.isnan(ssh[numlines_region_unique[k]]) == False:
+                check=1
+                isdata_all.append(numlines_region_unique[k])
     return check,isdata_all
 
 
@@ -89,9 +102,9 @@ def main():
         odir='/work/ALT/odatis/eNATL60/alberta/SWOT-sim/'+region+'/'+phase+'/'+data+'/'
         filename=odir+nfile
         if not os.path.exists(filename):
-            check, ind_region = check_data_region(region,file,latmin,latmax,lonmin,lonmax)
+            check, ind_region = check_data_region(data,region,file,latmin,latmax,lonmin,lonmax)
             if check == 1:
-                check2,isdata = check_data_nonan(file,ind_region)
+                check2,isdata = check_data_nonan(data,file,ind_region)
                 if check2 == 1:
                     print('extract data for file '+file)
                     ds=xr.open_dataset(file)
